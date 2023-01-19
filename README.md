@@ -26,6 +26,7 @@ Keras-OCR uses Deep Neural Network (DNN) which takes major performance hit when 
 2023-01-19 14:23:21.256365: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 733556736 exceeds 10% of free system memory.
 2023-01-19 14:23:22.914734: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 733556736 exceeds 10% of free system memory.
 2023-01-19 14:23:23.415767: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 366778368 exceeds 10% of free system memory.
+
 Code:
 
 import cv2
